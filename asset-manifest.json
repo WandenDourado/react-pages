@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-pages/static/css/main.44c9be7f.css",
-    "main.js": "/react-pages/static/js/main.236a20eb.js",
+    "main.js": "/react-pages/static/js/main.df7ccb84.js",
     "static/media/chibis-evil.png": "/react-pages/static/media/chibis-evil.619b79da2b0a7f04c622.png",
     "static/media/chibis-padrao.png": "/react-pages/static/media/chibis-padrao.461fb7cb3f0f0133ff6a.png",
     "index.html": "/react-pages/index.html",
     "main.44c9be7f.css.map": "/react-pages/static/css/main.44c9be7f.css.map",
-    "main.236a20eb.js.map": "/react-pages/static/js/main.236a20eb.js.map"
+    "main.df7ccb84.js.map": "/react-pages/static/js/main.df7ccb84.js.map"
   },
   "entrypoints": [
     "static/css/main.44c9be7f.css",
-    "static/js/main.236a20eb.js"
+    "static/js/main.df7ccb84.js"
   ]
 }
